@@ -1,0 +1,34 @@
+{
+	"phone": 6387408210,
+	"email": "org.wissen@gmail.com",
+	"print-mode": "False",
+	"font": {
+		"default": {
+			"charSet": "abcdefghijklmnopqrstuvwxyz",
+			"numSet": "0123456789",
+			"capCharSet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+		},
+		"courier-sans": {
+			"charSet": "𝚊𝚋𝚌𝚍𝚎𝚏𝚐𝚑𝚒𝚓𝚔𝚕𝚖𝚗𝚘𝚙𝚚𝚛𝚜𝚝𝚞𝚟𝚠𝚡𝚢𝚣",
+			"numSet": "𝟶𝟷𝟸𝟹𝟺𝟻𝟼𝟽𝟾𝟿",
+			"capCharSet": "𝙰𝙱𝙲𝙳𝙴𝙵𝙶𝙷𝙸𝙹𝙺𝙻𝙼𝙽𝙾𝙿𝚀𝚁𝚂𝚃𝚄𝚅𝚆𝚇𝚈𝚉"
+		},
+		"bold-aerial": {
+			"charSet": "𝗮𝗯𝗰𝗱𝗲𝗳𝗴𝗵𝗶𝗷𝗸𝗹𝗺𝗻𝗼𝗽𝗾𝗿𝘀𝘁𝘂𝘃𝘄𝘅𝘆𝘇",
+			"numSet": "𝟬𝟭𝟮𝟯𝟰𝟱𝟲𝟳𝟴𝟵",
+			"capCharSet": "𝗔𝗕𝗖𝗗𝗘𝗙𝗚𝗛𝗜𝗝𝗞𝗟𝗠𝗡𝗢𝗣𝗤𝗥𝗦𝗧𝗨𝗩𝗪𝗫𝗬𝗭"
+		}
+	},
+	"g-meet-links": {
+		"org.wissen@gmail.com": [
+			"https://meet.google.com/idt-pivt-piy",
+			"https://meet.google.com/ers-jpeq-dev",
+			"https://meet.google.com/omf-vruw-dmk"
+		],
+		"yashaswee.email@gmail.com": [
+			"https://meet.google.com/bst-pvcp-rmv",
+			"https://meet.google.com/qfz-qzmb-emt",
+			"https://meet.google.com/dyx-axvt-zvr"
+		]
+	}
+}

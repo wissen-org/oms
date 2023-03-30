@@ -1,0 +1,15 @@
+1 tone
+2 tag
+3 audience
+4 guest
+5 date
+6 time
+7 venue
+
+
+
+GMU Generate Meeting Update
+GBP Generate Bold Points
+GT Generate Ticket(s)
+UT Update Ticket(s)
+

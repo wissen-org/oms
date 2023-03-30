@@ -1,0 +1,28 @@
+{
+	"menu": [
+		"Generate Meeting Update",
+		"Modidy Meeting",
+		"Generate Bold Points",
+		"Generate Tickets",
+		"Update Tickets",
+		"Open Link",
+		"Fetch Member Details",
+		"Update Member Details",
+		"Personalise Message",
+		"Happenings",
+		"Settings",
+		"Exit"
+	],
+    "tagee"  : {
+        "kalp" : {
+            "name":"Kalpit Agarwal"
+        },
+        "arpit" : {
+            "name":"Arpit Bansal"
+        },
+        "ashm" : {
+            "name":"Ashmit"
+        }
+    }
+
+}
